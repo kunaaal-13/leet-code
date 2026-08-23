@@ -14,6 +14,7 @@ my dsa solutions
 | [0031-next-permutation](https://github.com/kunaaal-13/leet-code/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kunaaal-13/leet-code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kunaaal-13/leet-code/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/kunaaal-13/leet-code/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,4 +54,12 @@ my dsa solutions
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kunaaal-13/leet-code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kunaaal-13/leet-code/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/kunaaal-13/leet-code/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/kunaaal-13/leet-code/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
