@@ -22,6 +22,7 @@ my dsa solutions
 | [0074-search-a-2d-matrix](https://github.com/kunaaal-13/leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kunaaal-13/leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kunaaal-13/leet-code/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/kunaaal-13/leet-code/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@ my dsa solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kunaaal-13/leet-code/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/kunaaal-13/leet-code/tree/master/0118-pascals-triangle) |
 ## Quicksort
 |  |
 | ------- |
