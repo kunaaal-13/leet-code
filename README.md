@@ -16,6 +16,7 @@ my dsa solutions
 | [0035-search-insert-position](https://github.com/kunaaal-13/leet-code/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/kunaaal-13/leet-code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kunaaal-13/leet-code/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/kunaaal-13/leet-code/tree/master/0056-merge-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ my dsa solutions
 | ------- |
 | [0015-3sum](https://github.com/kunaaal-13/leet-code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kunaaal-13/leet-code/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/kunaaal-13/leet-code/tree/master/0056-merge-intervals) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,4 +78,8 @@ my dsa solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kunaaal-13/leet-code/tree/master/0053-maximum-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/kunaaal-13/leet-code/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
