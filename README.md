@@ -29,6 +29,7 @@ my dsa solutions
 | [0169-majority-element](https://github.com/kunaaal-13/leet-code/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/kunaaal-13/leet-code/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/kunaaal-13/leet-code/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/kunaaal-13/leet-code/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@ my dsa solutions
 | [0031-next-permutation](https://github.com/kunaaal-13/leet-code/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/kunaaal-13/leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kunaaal-13/leet-code/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/kunaaal-13/leet-code/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -80,6 +82,7 @@ my dsa solutions
 | [0035-search-insert-position](https://github.com/kunaaal-13/leet-code/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/kunaaal-13/leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/kunaaal-13/leet-code/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/kunaaal-13/leet-code/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
@@ -123,6 +126,7 @@ my dsa solutions
 | ------- |
 | [0136-single-number](https://github.com/kunaaal-13/leet-code/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kunaaal-13/leet-code/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/kunaaal-13/leet-code/tree/master/0287-find-the-duplicate-number) |
 ## Counting
 |  |
 | ------- |
@@ -135,4 +139,12 @@ my dsa solutions
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kunaaal-13/leet-code/tree/master/0238-product-of-array-except-self) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/kunaaal-13/leet-code/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/kunaaal-13/leet-code/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
