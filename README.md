@@ -58,8 +58,13 @@ my dsa solutions
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kunaaal-13/leet-code/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/kunaaal-13/leet-code/tree/master/0050-powx-n) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kunaaal-13/leet-code/tree/master/0048-rotate-image) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/kunaaal-13/leet-code/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
