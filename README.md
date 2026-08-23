@@ -17,6 +17,7 @@ my dsa solutions
 | [0048-rotate-image](https://github.com/kunaaal-13/leet-code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kunaaal-13/leet-code/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/kunaaal-13/leet-code/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/kunaaal-13/leet-code/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ my dsa solutions
 | ------- |
 | [0048-rotate-image](https://github.com/kunaaal-13/leet-code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/kunaaal-13/leet-code/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/kunaaal-13/leet-code/tree/master/0066-plus-one) |
 ## Matrix
 |  |
 | ------- |
