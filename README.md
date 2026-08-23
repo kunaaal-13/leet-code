@@ -19,6 +19,7 @@ my dsa solutions
 | [0056-merge-intervals](https://github.com/kunaaal-13/leet-code/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/kunaaal-13/leet-code/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/kunaaal-13/leet-code/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/kunaaal-13/leet-code/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +61,7 @@ my dsa solutions
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kunaaal-13/leet-code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kunaaal-13/leet-code/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/kunaaal-13/leet-code/tree/master/0074-search-a-2d-matrix) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +73,7 @@ my dsa solutions
 | ------- |
 | [0048-rotate-image](https://github.com/kunaaal-13/leet-code/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/kunaaal-13/leet-code/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/kunaaal-13/leet-code/tree/master/0074-search-a-2d-matrix) |
 ## Recursion
 |  |
 | ------- |
