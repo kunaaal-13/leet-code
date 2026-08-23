@@ -12,6 +12,7 @@ my dsa solutions
 | [0015-3sum](https://github.com/kunaaal-13/leet-code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kunaaal-13/leet-code/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/kunaaal-13/leet-code/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/kunaaal-13/leet-code/tree/master/0033-search-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,4 +47,8 @@ my dsa solutions
 | ------- |
 | [0015-3sum](https://github.com/kunaaal-13/leet-code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kunaaal-13/leet-code/tree/master/0018-4sum) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/kunaaal-13/leet-code/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
