@@ -20,6 +20,7 @@ my dsa solutions
 | [0066-plus-one](https://github.com/kunaaal-13/leet-code/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/kunaaal-13/leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kunaaal-13/leet-code/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/kunaaal-13/leet-code/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ my dsa solutions
 | [0015-3sum](https://github.com/kunaaal-13/leet-code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kunaaal-13/leet-code/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/kunaaal-13/leet-code/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/kunaaal-13/leet-code/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
@@ -56,6 +58,7 @@ my dsa solutions
 | [0015-3sum](https://github.com/kunaaal-13/leet-code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kunaaal-13/leet-code/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/kunaaal-13/leet-code/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/kunaaal-13/leet-code/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,4 +93,9 @@ my dsa solutions
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/kunaaal-13/leet-code/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/kunaaal-13/leet-code/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kunaaal-13/leet-code/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
