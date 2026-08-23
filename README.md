@@ -28,6 +28,7 @@ my dsa solutions
 | [0136-single-number](https://github.com/kunaaal-13/leet-code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kunaaal-13/leet-code/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/kunaaal-13/leet-code/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/kunaaal-13/leet-code/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ my dsa solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/kunaaal-13/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/kunaaal-13/leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/kunaaal-13/leet-code/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/kunaaal-13/leet-code/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -70,18 +72,21 @@ my dsa solutions
 | [0075-sort-colors](https://github.com/kunaaal-13/leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kunaaal-13/leet-code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kunaaal-13/leet-code/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/kunaaal-13/leet-code/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kunaaal-13/leet-code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kunaaal-13/leet-code/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/kunaaal-13/leet-code/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/kunaaal-13/leet-code/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kunaaal-13/leet-code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/kunaaal-13/leet-code/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/kunaaal-13/leet-code/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/kunaaal-13/leet-code/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -117,6 +122,7 @@ my dsa solutions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kunaaal-13/leet-code/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/kunaaal-13/leet-code/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
