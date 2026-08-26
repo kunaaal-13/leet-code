@@ -50,6 +50,7 @@ my dsa solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kunaaal-13/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/kunaaal-13/leet-code/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/kunaaal-13/leet-code/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -63,6 +64,7 @@ my dsa solutions
 | [0031-next-permutation](https://github.com/kunaaal-13/leet-code/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/kunaaal-13/leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kunaaal-13/leet-code/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/kunaaal-13/leet-code/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/kunaaal-13/leet-code/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
