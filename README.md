@@ -30,6 +30,7 @@ my dsa solutions
 | [0238-product-of-array-except-self](https://github.com/kunaaal-13/leet-code/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/kunaaal-13/leet-code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kunaaal-13/leet-code/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/kunaaal-13/leet-code/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/kunaaal-13/leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kunaaal-13/leet-code/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/kunaaal-13/leet-code/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -93,6 +94,7 @@ my dsa solutions
 | [0074-search-a-2d-matrix](https://github.com/kunaaal-13/leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/kunaaal-13/leet-code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kunaaal-13/leet-code/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/kunaaal-13/leet-code/tree/master/0493-reverse-pairs) |
 ## Math
 |  |
 | ------- |
@@ -118,6 +120,7 @@ my dsa solutions
 | ------- |
 | [0053-maximum-subarray](https://github.com/kunaaal-13/leet-code/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/kunaaal-13/leet-code/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/kunaaal-13/leet-code/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -167,4 +170,24 @@ my dsa solutions
 | ------- |
 | [2022-convert-1d-array-into-2d-array](https://github.com/kunaaal-13/leet-code/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/kunaaal-13/leet-code/tree/master/3925-concatenate-array-with-reverse) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kunaaal-13/leet-code/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kunaaal-13/leet-code/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kunaaal-13/leet-code/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kunaaal-13/leet-code/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/kunaaal-13/leet-code/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
