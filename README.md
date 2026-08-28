@@ -58,6 +58,7 @@ my dsa solutions
 | [0014-longest-common-prefix](https://github.com/kunaaal-13/leet-code/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/kunaaal-13/leet-code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kunaaal-13/leet-code/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/kunaaal-13/leet-code/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -74,6 +75,7 @@ my dsa solutions
 | [0088-merge-sorted-array](https://github.com/kunaaal-13/leet-code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kunaaal-13/leet-code/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/kunaaal-13/leet-code/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/kunaaal-13/leet-code/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
