@@ -63,6 +63,7 @@ my dsa solutions
 | [0151-reverse-words-in-a-string](https://github.com/kunaaal-13/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kunaaal-13/leet-code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kunaaal-13/leet-code/tree/master/0344-reverse-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/kunaaal-13/leet-code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -188,6 +189,7 @@ my dsa solutions
 ## Simulation
 |  |
 | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/kunaaal-13/leet-code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/kunaaal-13/leet-code/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/kunaaal-13/leet-code/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Indexed Tree
@@ -214,6 +216,7 @@ my dsa solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kunaaal-13/leet-code/tree/master/0042-trapping-rain-water) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/kunaaal-13/leet-code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
