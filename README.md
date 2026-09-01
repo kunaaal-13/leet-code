@@ -41,6 +41,7 @@ my dsa solutions
 | [0560-subarray-sum-equals-k](https://github.com/kunaaal-13/leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kunaaal-13/leet-code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/kunaaal-13/leet-code/tree/master/0896-monotonic-array) |
+| [0912-sort-an-array](https://github.com/kunaaal-13/leet-code/tree/master/0912-sort-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kunaaal-13/leet-code/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/kunaaal-13/leet-code/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/kunaaal-13/leet-code/tree/master/2965-find-missing-and-repeated-values) |
@@ -105,6 +106,7 @@ my dsa solutions
 | [0169-majority-element](https://github.com/kunaaal-13/leet-code/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kunaaal-13/leet-code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kunaaal-13/leet-code/tree/master/0268-missing-number) |
+| [0912-sort-an-array](https://github.com/kunaaal-13/leet-code/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -143,6 +145,7 @@ my dsa solutions
 | [0053-maximum-subarray](https://github.com/kunaaal-13/leet-code/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/kunaaal-13/leet-code/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/kunaaal-13/leet-code/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/kunaaal-13/leet-code/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -208,6 +211,7 @@ my dsa solutions
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/kunaaal-13/leet-code/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/kunaaal-13/leet-code/tree/master/0912-sort-an-array) |
 ## Ordered Set
 |  |
 | ------- |
@@ -236,4 +240,20 @@ my dsa solutions
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kunaaal-13/leet-code/tree/master/0852-peak-index-in-a-mountain-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kunaaal-13/leet-code/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kunaaal-13/leet-code/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kunaaal-13/leet-code/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kunaaal-13/leet-code/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
