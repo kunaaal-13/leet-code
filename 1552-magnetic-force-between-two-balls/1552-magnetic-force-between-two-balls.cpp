@@ -17,7 +17,7 @@ public:
         int n=position.size();
         int st=0;
         int end=position[n-1]-position[0];
-        int ans=0;
+        int ans=1;
         while(st<=end){
             int mid=st+(end-st)/2;
             if(isValid(position,m,mid)){
