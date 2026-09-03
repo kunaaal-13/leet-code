@@ -135,6 +135,7 @@ my dsa solutions
 | [0066-plus-one](https://github.com/kunaaal-13/leet-code/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/kunaaal-13/leet-code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kunaaal-13/leet-code/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/kunaaal-13/leet-code/tree/master/0326-power-of-three) |
 | [2965-find-missing-and-repeated-values](https://github.com/kunaaal-13/leet-code/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -149,6 +150,7 @@ my dsa solutions
 | ------- |
 | [0050-powx-n](https://github.com/kunaaal-13/leet-code/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/kunaaal-13/leet-code/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/kunaaal-13/leet-code/tree/master/0326-power-of-three) |
 ## Divide and Conquer
 |  |
 | ------- |
