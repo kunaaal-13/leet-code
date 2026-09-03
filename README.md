@@ -133,6 +133,7 @@ my dsa solutions
 | [0048-rotate-image](https://github.com/kunaaal-13/leet-code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/kunaaal-13/leet-code/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/kunaaal-13/leet-code/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/kunaaal-13/leet-code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kunaaal-13/leet-code/tree/master/0268-missing-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/kunaaal-13/leet-code/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
@@ -147,6 +148,7 @@ my dsa solutions
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kunaaal-13/leet-code/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/kunaaal-13/leet-code/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -178,6 +180,7 @@ my dsa solutions
 | [0078-subsets](https://github.com/kunaaal-13/leet-code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kunaaal-13/leet-code/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/kunaaal-13/leet-code/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/kunaaal-13/leet-code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kunaaal-13/leet-code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kunaaal-13/leet-code/tree/master/0287-find-the-duplicate-number) |
 ## Counting
