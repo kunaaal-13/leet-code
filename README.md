@@ -153,6 +153,7 @@ my dsa solutions
 | [0268-missing-number](https://github.com/kunaaal-13/leet-code/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/kunaaal-13/leet-code/tree/master/0326-power-of-three) |
 | [2965-find-missing-and-repeated-values](https://github.com/kunaaal-13/leet-code/tree/master/2965-find-missing-and-repeated-values) |
+| [3099-harshad-number](https://github.com/kunaaal-13/leet-code/tree/master/3099-harshad-number) |
 ## Matrix
 |  |
 | ------- |
