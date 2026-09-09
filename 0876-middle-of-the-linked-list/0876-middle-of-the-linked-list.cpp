@@ -19,7 +19,6 @@ public:
             i++;
         }
         int f=(i/2)+1;
-        std::cout<<f;
         for(int j=1;j<f;j++){
             ans=ans->next;
         }
