@@ -102,6 +102,7 @@ my dsa solutions
 | [0287-find-the-duplicate-number](https://github.com/kunaaal-13/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/kunaaal-13/leet-code/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kunaaal-13/leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/kunaaal-13/leet-code/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -307,4 +308,5 @@ my dsa solutions
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/kunaaal-13/leet-code/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/kunaaal-13/leet-code/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
