@@ -63,6 +63,7 @@ my dsa solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/kunaaal-13/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/kunaaal-13/leet-code/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/kunaaal-13/leet-code/tree/master/0073-set-matrix-zeroes) |
+| [0138-copy-list-with-random-pointer](https://github.com/kunaaal-13/leet-code/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kunaaal-13/leet-code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kunaaal-13/leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/kunaaal-13/leet-code/tree/master/0169-majority-element) |
@@ -318,6 +319,7 @@ my dsa solutions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kunaaal-13/leet-code/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/kunaaal-13/leet-code/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kunaaal-13/leet-code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kunaaal-13/leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/kunaaal-13/leet-code/tree/master/0206-reverse-linked-list) |
