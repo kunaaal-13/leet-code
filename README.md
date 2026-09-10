@@ -161,6 +161,7 @@ my dsa solutions
 | [0231-power-of-two](https://github.com/kunaaal-13/leet-code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kunaaal-13/leet-code/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/kunaaal-13/leet-code/tree/master/0326-power-of-three) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kunaaal-13/leet-code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/kunaaal-13/leet-code/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/kunaaal-13/leet-code/tree/master/3099-harshad-number) |
 ## Matrix
@@ -331,4 +332,5 @@ my dsa solutions
 | [0206-reverse-linked-list](https://github.com/kunaaal-13/leet-code/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kunaaal-13/leet-code/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kunaaal-13/leet-code/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kunaaal-13/leet-code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
