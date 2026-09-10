@@ -43,6 +43,7 @@ my dsa solutions
 | [0287-find-the-duplicate-number](https://github.com/kunaaal-13/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kunaaal-13/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/kunaaal-13/leet-code/tree/master/0410-split-array-largest-sum) |
+| [0414-third-maximum-number](https://github.com/kunaaal-13/leet-code/tree/master/0414-third-maximum-number) |
 | [0493-reverse-pairs](https://github.com/kunaaal-13/leet-code/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kunaaal-13/leet-code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kunaaal-13/leet-code/tree/master/0560-subarray-sum-equals-k) |
@@ -134,6 +135,7 @@ my dsa solutions
 | [0242-valid-anagram](https://github.com/kunaaal-13/leet-code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kunaaal-13/leet-code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kunaaal-13/leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/kunaaal-13/leet-code/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kunaaal-13/leet-code/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/kunaaal-13/leet-code/tree/master/0912-sort-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kunaaal-13/leet-code/tree/master/1552-magnetic-force-between-two-balls) |
