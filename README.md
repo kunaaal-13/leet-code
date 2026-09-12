@@ -183,6 +183,7 @@ my dsa solutions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kunaaal-13/leet-code/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/kunaaal-13/leet-code/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/kunaaal-13/leet-code/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/kunaaal-13/leet-code/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/kunaaal-13/leet-code/tree/master/0203-remove-linked-list-elements) |
@@ -331,6 +332,7 @@ my dsa solutions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kunaaal-13/leet-code/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/kunaaal-13/leet-code/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/kunaaal-13/leet-code/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kunaaal-13/leet-code/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/kunaaal-13/leet-code/tree/master/0138-copy-list-with-random-pointer) |
