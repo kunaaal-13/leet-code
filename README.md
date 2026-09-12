@@ -56,6 +56,7 @@ my dsa solutions
 | [1672-richest-customer-wealth](https://github.com/kunaaal-13/leet-code/tree/master/1672-richest-customer-wealth) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/kunaaal-13/leet-code/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/kunaaal-13/leet-code/tree/master/2965-find-missing-and-repeated-values) |
+| [3866-first-unique-even-element](https://github.com/kunaaal-13/leet-code/tree/master/3866-first-unique-even-element) |
 | [3925-concatenate-array-with-reverse](https://github.com/kunaaal-13/leet-code/tree/master/3925-concatenate-array-with-reverse) |
 | [3978-unique-middle-element](https://github.com/kunaaal-13/leet-code/tree/master/3978-unique-middle-element) |
 ## Hash Table
@@ -77,6 +78,7 @@ my dsa solutions
 | [0560-subarray-sum-equals-k](https://github.com/kunaaal-13/leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kunaaal-13/leet-code/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/kunaaal-13/leet-code/tree/master/2965-find-missing-and-repeated-values) |
+| [3866-first-unique-even-element](https://github.com/kunaaal-13/leet-code/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
 | ------- |
@@ -226,6 +228,7 @@ my dsa solutions
 | ------- |
 | [0169-majority-element](https://github.com/kunaaal-13/leet-code/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kunaaal-13/leet-code/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3866-first-unique-even-element](https://github.com/kunaaal-13/leet-code/tree/master/3866-first-unique-even-element) |
 | [3978-unique-middle-element](https://github.com/kunaaal-13/leet-code/tree/master/3978-unique-middle-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
