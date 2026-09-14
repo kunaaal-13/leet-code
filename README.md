@@ -88,6 +88,7 @@ my dsa solutions
 | [0151-reverse-words-in-a-string](https://github.com/kunaaal-13/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kunaaal-13/leet-code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kunaaal-13/leet-code/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/kunaaal-13/leet-code/tree/master/0412-fizz-buzz) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kunaaal-13/leet-code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
@@ -171,6 +172,7 @@ my dsa solutions
 | [0268-missing-number](https://github.com/kunaaal-13/leet-code/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/kunaaal-13/leet-code/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/kunaaal-13/leet-code/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/kunaaal-13/leet-code/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/kunaaal-13/leet-code/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kunaaal-13/leet-code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/kunaaal-13/leet-code/tree/master/2965-find-missing-and-repeated-values) |
@@ -263,6 +265,7 @@ my dsa solutions
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/kunaaal-13/leet-code/tree/master/0412-fizz-buzz) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kunaaal-13/leet-code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/kunaaal-13/leet-code/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/kunaaal-13/leet-code/tree/master/3925-concatenate-array-with-reverse) |
