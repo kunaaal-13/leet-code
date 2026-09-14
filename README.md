@@ -152,6 +152,7 @@ my dsa solutions
 | [0268-missing-number](https://github.com/kunaaal-13/leet-code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kunaaal-13/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kunaaal-13/leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/kunaaal-13/leet-code/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/kunaaal-13/leet-code/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/kunaaal-13/leet-code/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kunaaal-13/leet-code/tree/master/0540-single-element-in-a-sorted-array) |
@@ -169,6 +170,7 @@ my dsa solutions
 | [0231-power-of-two](https://github.com/kunaaal-13/leet-code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kunaaal-13/leet-code/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/kunaaal-13/leet-code/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/kunaaal-13/leet-code/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/kunaaal-13/leet-code/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kunaaal-13/leet-code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/kunaaal-13/leet-code/tree/master/2965-find-missing-and-repeated-values) |
