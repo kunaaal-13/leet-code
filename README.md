@@ -94,6 +94,7 @@ my dsa solutions
 | [0344-reverse-string](https://github.com/kunaaal-13/leet-code/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/kunaaal-13/leet-code/tree/master/0412-fizz-buzz) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kunaaal-13/leet-code/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2000-reverse-prefix-of-word](https://github.com/kunaaal-13/leet-code/tree/master/2000-reverse-prefix-of-word) |
 ## Sliding Window
 |  |
 | ------- |
@@ -122,6 +123,7 @@ my dsa solutions
 | [0349-intersection-of-two-arrays](https://github.com/kunaaal-13/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/kunaaal-13/leet-code/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/kunaaal-13/leet-code/tree/master/0905-sort-array-by-parity) |
+| [2000-reverse-prefix-of-word](https://github.com/kunaaal-13/leet-code/tree/master/2000-reverse-prefix-of-word) |
 ## Greedy
 |  |
 | ------- |
@@ -306,6 +308,7 @@ my dsa solutions
 | [0234-palindrome-linked-list](https://github.com/kunaaal-13/leet-code/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/kunaaal-13/leet-code/tree/master/0682-baseball-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kunaaal-13/leet-code/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2000-reverse-prefix-of-word](https://github.com/kunaaal-13/leet-code/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
