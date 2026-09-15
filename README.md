@@ -47,6 +47,7 @@ my dsa solutions
 | [0493-reverse-pairs](https://github.com/kunaaal-13/leet-code/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kunaaal-13/leet-code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kunaaal-13/leet-code/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/kunaaal-13/leet-code/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/kunaaal-13/leet-code/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kunaaal-13/leet-code/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kunaaal-13/leet-code/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -272,6 +273,7 @@ my dsa solutions
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/kunaaal-13/leet-code/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/kunaaal-13/leet-code/tree/master/0682-baseball-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kunaaal-13/leet-code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/kunaaal-13/leet-code/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/kunaaal-13/leet-code/tree/master/3925-concatenate-array-with-reverse) |
@@ -302,6 +304,7 @@ my dsa solutions
 | [0020-valid-parentheses](https://github.com/kunaaal-13/leet-code/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kunaaal-13/leet-code/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/kunaaal-13/leet-code/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/kunaaal-13/leet-code/tree/master/0682-baseball-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kunaaal-13/leet-code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
