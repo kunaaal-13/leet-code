@@ -187,6 +187,7 @@ my dsa solutions
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kunaaal-13/leet-code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/kunaaal-13/leet-code/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/kunaaal-13/leet-code/tree/master/3099-harshad-number) |
+| [3959-check-good-integer](https://github.com/kunaaal-13/leet-code/tree/master/3959-check-good-integer) |
 ## Matrix
 |  |
 | ------- |
@@ -281,6 +282,7 @@ my dsa solutions
 | [2022-convert-1d-array-into-2d-array](https://github.com/kunaaal-13/leet-code/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3174-clear-digits](https://github.com/kunaaal-13/leet-code/tree/master/3174-clear-digits) |
 | [3925-concatenate-array-with-reverse](https://github.com/kunaaal-13/leet-code/tree/master/3925-concatenate-array-with-reverse) |
+| [3959-check-good-integer](https://github.com/kunaaal-13/leet-code/tree/master/3959-check-good-integer) |
 ## Binary Indexed Tree
 |  |
 | ------- |
