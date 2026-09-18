@@ -95,6 +95,7 @@ my dsa solutions
 | [0242-valid-anagram](https://github.com/kunaaal-13/leet-code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kunaaal-13/leet-code/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/kunaaal-13/leet-code/tree/master/0412-fizz-buzz) |
+| [0709-to-lower-case](https://github.com/kunaaal-13/leet-code/tree/master/0709-to-lower-case) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kunaaal-13/leet-code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/kunaaal-13/leet-code/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/kunaaal-13/leet-code/tree/master/3174-clear-digits) |
