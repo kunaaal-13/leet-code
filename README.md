@@ -189,6 +189,7 @@ my dsa solutions
 | [0412-fizz-buzz](https://github.com/kunaaal-13/leet-code/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/kunaaal-13/leet-code/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kunaaal-13/leet-code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1952-three-divisors](https://github.com/kunaaal-13/leet-code/tree/master/1952-three-divisors) |
 | [2965-find-missing-and-repeated-values](https://github.com/kunaaal-13/leet-code/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/kunaaal-13/leet-code/tree/master/3099-harshad-number) |
 | [3959-check-good-integer](https://github.com/kunaaal-13/leet-code/tree/master/3959-check-good-integer) |
@@ -403,4 +404,20 @@ my dsa solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kunaaal-13/leet-code/tree/master/0020-valid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/kunaaal-13/leet-code/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/kunaaal-13/leet-code/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/kunaaal-13/leet-code/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/kunaaal-13/leet-code/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
