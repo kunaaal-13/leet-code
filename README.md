@@ -57,6 +57,7 @@ my dsa solutions
 | [0912-sort-an-array](https://github.com/kunaaal-13/leet-code/tree/master/0912-sort-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kunaaal-13/leet-code/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kunaaal-13/leet-code/tree/master/1552-magnetic-force-between-two-balls) |
+| [1629-slowest-key](https://github.com/kunaaal-13/leet-code/tree/master/1629-slowest-key) |
 | [1672-richest-customer-wealth](https://github.com/kunaaal-13/leet-code/tree/master/1672-richest-customer-wealth) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/kunaaal-13/leet-code/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/kunaaal-13/leet-code/tree/master/2965-find-missing-and-repeated-values) |
@@ -97,6 +98,7 @@ my dsa solutions
 | [0412-fizz-buzz](https://github.com/kunaaal-13/leet-code/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/kunaaal-13/leet-code/tree/master/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/kunaaal-13/leet-code/tree/master/0917-reverse-only-letters) |
+| [1629-slowest-key](https://github.com/kunaaal-13/leet-code/tree/master/1629-slowest-key) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kunaaal-13/leet-code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/kunaaal-13/leet-code/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/kunaaal-13/leet-code/tree/master/3174-clear-digits) |
