@@ -99,6 +99,7 @@ my dsa solutions
 | [0242-valid-anagram](https://github.com/kunaaal-13/leet-code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kunaaal-13/leet-code/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/kunaaal-13/leet-code/tree/master/0412-fizz-buzz) |
+| [0541-reverse-string-ii](https://github.com/kunaaal-13/leet-code/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/kunaaal-13/leet-code/tree/master/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/kunaaal-13/leet-code/tree/master/0917-reverse-only-letters) |
 | [1629-slowest-key](https://github.com/kunaaal-13/leet-code/tree/master/1629-slowest-key) |
@@ -132,6 +133,7 @@ my dsa solutions
 | [0287-find-the-duplicate-number](https://github.com/kunaaal-13/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/kunaaal-13/leet-code/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kunaaal-13/leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0541-reverse-string-ii](https://github.com/kunaaal-13/leet-code/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/kunaaal-13/leet-code/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/kunaaal-13/leet-code/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/kunaaal-13/leet-code/tree/master/0917-reverse-only-letters) |
