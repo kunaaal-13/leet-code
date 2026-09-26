@@ -48,6 +48,7 @@ my dsa solutions
 | [0496-next-greater-element-i](https://github.com/kunaaal-13/leet-code/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kunaaal-13/leet-code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kunaaal-13/leet-code/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/kunaaal-13/leet-code/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/kunaaal-13/leet-code/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/kunaaal-13/leet-code/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kunaaal-13/leet-code/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -84,6 +85,7 @@ my dsa solutions
 | [0349-intersection-of-two-arrays](https://github.com/kunaaal-13/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/kunaaal-13/leet-code/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kunaaal-13/leet-code/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/kunaaal-13/leet-code/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/kunaaal-13/leet-code/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kunaaal-13/leet-code/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/kunaaal-13/leet-code/tree/master/2965-find-missing-and-repeated-values) |
@@ -161,6 +163,7 @@ my dsa solutions
 | [0268-missing-number](https://github.com/kunaaal-13/leet-code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kunaaal-13/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/kunaaal-13/leet-code/tree/master/0414-third-maximum-number) |
+| [0645-set-mismatch](https://github.com/kunaaal-13/leet-code/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kunaaal-13/leet-code/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/kunaaal-13/leet-code/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/kunaaal-13/leet-code/tree/master/0912-sort-an-array) |
@@ -264,6 +267,7 @@ my dsa solutions
 | [0268-missing-number](https://github.com/kunaaal-13/leet-code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kunaaal-13/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/kunaaal-13/leet-code/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/kunaaal-13/leet-code/tree/master/0645-set-mismatch) |
 ## Counting
 |  |
 | ------- |
