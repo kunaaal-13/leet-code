@@ -337,6 +337,7 @@ my dsa solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/kunaaal-13/leet-code/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kunaaal-13/leet-code/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/kunaaal-13/leet-code/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/kunaaal-13/leet-code/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/kunaaal-13/leet-code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kunaaal-13/leet-code/tree/master/0503-next-greater-element-ii) |
@@ -443,4 +444,8 @@ my dsa solutions
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/kunaaal-13/leet-code/tree/master/1952-three-divisors) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/kunaaal-13/leet-code/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
