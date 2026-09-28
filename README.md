@@ -46,6 +46,7 @@ my dsa solutions
 | [0414-third-maximum-number](https://github.com/kunaaal-13/leet-code/tree/master/0414-third-maximum-number) |
 | [0493-reverse-pairs](https://github.com/kunaaal-13/leet-code/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/kunaaal-13/leet-code/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kunaaal-13/leet-code/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kunaaal-13/leet-code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kunaaal-13/leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/kunaaal-13/leet-code/tree/master/0645-set-mismatch) |
@@ -338,6 +339,7 @@ my dsa solutions
 | [0042-trapping-rain-water](https://github.com/kunaaal-13/leet-code/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/kunaaal-13/leet-code/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/kunaaal-13/leet-code/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kunaaal-13/leet-code/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/kunaaal-13/leet-code/tree/master/0682-baseball-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kunaaal-13/leet-code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/kunaaal-13/leet-code/tree/master/2000-reverse-prefix-of-word) |
@@ -347,6 +349,7 @@ my dsa solutions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kunaaal-13/leet-code/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/kunaaal-13/leet-code/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kunaaal-13/leet-code/tree/master/0503-next-greater-element-ii) |
 ## Backtracking
 |  |
 | ------- |
