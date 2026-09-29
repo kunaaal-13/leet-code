@@ -108,6 +108,7 @@ my dsa solutions
 | [0541-reverse-string-ii](https://github.com/kunaaal-13/leet-code/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kunaaal-13/leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/kunaaal-13/leet-code/tree/master/0709-to-lower-case) |
+| [0844-backspace-string-compare](https://github.com/kunaaal-13/leet-code/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/kunaaal-13/leet-code/tree/master/0917-reverse-only-letters) |
 | [1629-slowest-key](https://github.com/kunaaal-13/leet-code/tree/master/1629-slowest-key) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kunaaal-13/leet-code/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -142,6 +143,7 @@ my dsa solutions
 | [0349-intersection-of-two-arrays](https://github.com/kunaaal-13/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/kunaaal-13/leet-code/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kunaaal-13/leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/kunaaal-13/leet-code/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/kunaaal-13/leet-code/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/kunaaal-13/leet-code/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/kunaaal-13/leet-code/tree/master/0917-reverse-only-letters) |
@@ -307,6 +309,7 @@ my dsa solutions
 | ------- |
 | [0412-fizz-buzz](https://github.com/kunaaal-13/leet-code/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/kunaaal-13/leet-code/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/kunaaal-13/leet-code/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kunaaal-13/leet-code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/kunaaal-13/leet-code/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3174-clear-digits](https://github.com/kunaaal-13/leet-code/tree/master/3174-clear-digits) |
@@ -344,6 +347,7 @@ my dsa solutions
 | [0496-next-greater-element-i](https://github.com/kunaaal-13/leet-code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kunaaal-13/leet-code/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/kunaaal-13/leet-code/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/kunaaal-13/leet-code/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kunaaal-13/leet-code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/kunaaal-13/leet-code/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/kunaaal-13/leet-code/tree/master/3174-clear-digits) |
