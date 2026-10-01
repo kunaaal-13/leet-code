@@ -40,6 +40,7 @@ my dsa solutions
 | [0169-majority-element](https://github.com/kunaaal-13/leet-code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kunaaal-13/leet-code/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kunaaal-13/leet-code/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/kunaaal-13/leet-code/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/kunaaal-13/leet-code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kunaaal-13/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kunaaal-13/leet-code/tree/master/0349-intersection-of-two-arrays) |
@@ -122,6 +123,7 @@ my dsa solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kunaaal-13/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/kunaaal-13/leet-code/tree/master/0239-sliding-window-maximum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -381,6 +383,7 @@ my dsa solutions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/kunaaal-13/leet-code/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/kunaaal-13/leet-code/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -467,10 +470,16 @@ my dsa solutions
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kunaaal-13/leet-code/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/kunaaal-13/leet-code/tree/master/0239-sliding-window-maximum) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kunaaal-13/leet-code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kunaaal-13/leet-code/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/kunaaal-13/leet-code/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/kunaaal-13/leet-code/tree/master/0387-first-unique-character-in-a-string) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kunaaal-13/leet-code/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
