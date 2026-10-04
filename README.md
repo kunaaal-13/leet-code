@@ -110,6 +110,7 @@ my dsa solutions
 | [0125-valid-palindrome](https://github.com/kunaaal-13/leet-code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kunaaal-13/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kunaaal-13/leet-code/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/kunaaal-13/leet-code/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/kunaaal-13/leet-code/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kunaaal-13/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/kunaaal-13/leet-code/tree/master/0412-fizz-buzz) |
@@ -383,6 +384,7 @@ my dsa solutions
 | [0051-n-queens](https://github.com/kunaaal-13/leet-code/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/kunaaal-13/leet-code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kunaaal-13/leet-code/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/kunaaal-13/leet-code/tree/master/0257-binary-tree-paths) |
 ## Ternary Search
 |  |
 | ------- |
@@ -434,6 +436,7 @@ my dsa solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/kunaaal-13/leet-code/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/kunaaal-13/leet-code/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/kunaaal-13/leet-code/tree/master/0543-diameter-of-binary-tree) |
 ## Doubly-Linked List
@@ -510,11 +513,13 @@ my dsa solutions
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/kunaaal-13/leet-code/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/kunaaal-13/leet-code/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/kunaaal-13/leet-code/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/kunaaal-13/leet-code/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
