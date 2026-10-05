@@ -357,6 +357,7 @@ my dsa solutions
 | [0042-trapping-rain-water](https://github.com/kunaaal-13/leet-code/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kunaaal-13/leet-code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kunaaal-13/leet-code/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/kunaaal-13/leet-code/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kunaaal-13/leet-code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kunaaal-13/leet-code/tree/master/0232-implement-queue-using-stacks) |
@@ -424,6 +425,7 @@ my dsa solutions
 | [0025-reverse-nodes-in-k-group](https://github.com/kunaaal-13/leet-code/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/kunaaal-13/leet-code/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kunaaal-13/leet-code/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kunaaal-13/leet-code/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/kunaaal-13/leet-code/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kunaaal-13/leet-code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kunaaal-13/leet-code/tree/master/0142-linked-list-cycle-ii) |
@@ -438,6 +440,7 @@ my dsa solutions
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kunaaal-13/leet-code/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/kunaaal-13/leet-code/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/kunaaal-13/leet-code/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/kunaaal-13/leet-code/tree/master/0543-diameter-of-binary-tree) |
@@ -517,6 +520,7 @@ my dsa solutions
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kunaaal-13/leet-code/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/kunaaal-13/leet-code/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/kunaaal-13/leet-code/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kunaaal-13/leet-code/tree/master/0662-maximum-width-of-binary-tree) |
@@ -525,6 +529,7 @@ my dsa solutions
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kunaaal-13/leet-code/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/kunaaal-13/leet-code/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/kunaaal-13/leet-code/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kunaaal-13/leet-code/tree/master/0662-maximum-width-of-binary-tree) |
