@@ -356,6 +356,7 @@ my dsa solutions
 | [0020-valid-parentheses](https://github.com/kunaaal-13/leet-code/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kunaaal-13/leet-code/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kunaaal-13/leet-code/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/kunaaal-13/leet-code/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kunaaal-13/leet-code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kunaaal-13/leet-code/tree/master/0232-implement-queue-using-stacks) |
@@ -436,6 +437,7 @@ my dsa solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/kunaaal-13/leet-code/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/kunaaal-13/leet-code/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/kunaaal-13/leet-code/tree/master/0543-diameter-of-binary-tree) |
@@ -513,6 +515,7 @@ my dsa solutions
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/kunaaal-13/leet-code/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/kunaaal-13/leet-code/tree/master/0543-diameter-of-binary-tree) |
@@ -520,6 +523,7 @@ my dsa solutions
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/kunaaal-13/leet-code/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/kunaaal-13/leet-code/tree/master/0543-diameter-of-binary-tree) |
