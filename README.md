@@ -34,6 +34,7 @@ my dsa solutions
 | [0088-merge-sorted-array](https://github.com/kunaaal-13/leet-code/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/kunaaal-13/leet-code/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kunaaal-13/leet-code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/kunaaal-13/leet-code/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kunaaal-13/leet-code/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunaaal-13/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -257,6 +258,7 @@ my dsa solutions
 | ------- |
 | [0053-maximum-subarray](https://github.com/kunaaal-13/leet-code/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kunaaal-13/leet-code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/kunaaal-13/leet-code/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/kunaaal-13/leet-code/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/kunaaal-13/leet-code/tree/master/0912-sort-an-array) |
@@ -520,6 +522,7 @@ my dsa solutions
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kunaaal-13/leet-code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kunaaal-13/leet-code/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/kunaaal-13/leet-code/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/kunaaal-13/leet-code/tree/master/0543-diameter-of-binary-tree) |
@@ -529,6 +532,7 @@ my dsa solutions
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kunaaal-13/leet-code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kunaaal-13/leet-code/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/kunaaal-13/leet-code/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/kunaaal-13/leet-code/tree/master/0543-diameter-of-binary-tree) |
@@ -541,4 +545,8 @@ my dsa solutions
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/kunaaal-13/leet-code/tree/master/0662-maximum-width-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kunaaal-13/leet-code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
