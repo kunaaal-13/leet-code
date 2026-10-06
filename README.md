@@ -448,6 +448,7 @@ my dsa solutions
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/kunaaal-13/leet-code/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/kunaaal-13/leet-code/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kunaaal-13/leet-code/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/kunaaal-13/leet-code/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -529,6 +530,7 @@ my dsa solutions
 | [0257-binary-tree-paths](https://github.com/kunaaal-13/leet-code/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/kunaaal-13/leet-code/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kunaaal-13/leet-code/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/kunaaal-13/leet-code/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -540,6 +542,7 @@ my dsa solutions
 | [0257-binary-tree-paths](https://github.com/kunaaal-13/leet-code/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/kunaaal-13/leet-code/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kunaaal-13/leet-code/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/kunaaal-13/leet-code/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## DP on Trees
 |  |
 | ------- |
@@ -548,9 +551,11 @@ my dsa solutions
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/kunaaal-13/leet-code/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/kunaaal-13/leet-code/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kunaaal-13/leet-code/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kunaaal-13/leet-code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/kunaaal-13/leet-code/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
