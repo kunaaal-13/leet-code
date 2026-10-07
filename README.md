@@ -62,6 +62,7 @@ my dsa solutions
 | [0896-monotonic-array](https://github.com/kunaaal-13/leet-code/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/kunaaal-13/leet-code/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/kunaaal-13/leet-code/tree/master/0912-sort-an-array) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1331-rank-transform-of-an-array](https://github.com/kunaaal-13/leet-code/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kunaaal-13/leet-code/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kunaaal-13/leet-code/tree/master/1552-magnetic-force-between-two-balls) |
@@ -368,6 +369,7 @@ my dsa solutions
 | [0503-next-greater-element-ii](https://github.com/kunaaal-13/leet-code/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/kunaaal-13/leet-code/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/kunaaal-13/leet-code/tree/master/0844-backspace-string-compare) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kunaaal-13/leet-code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/kunaaal-13/leet-code/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/kunaaal-13/leet-code/tree/master/3174-clear-digits) |
@@ -378,6 +380,7 @@ my dsa solutions
 | [0084-largest-rectangle-in-histogram](https://github.com/kunaaal-13/leet-code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/kunaaal-13/leet-code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kunaaal-13/leet-code/tree/master/0503-next-greater-element-ii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
@@ -535,6 +538,7 @@ my dsa solutions
 | [0543-diameter-of-binary-tree](https://github.com/kunaaal-13/leet-code/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kunaaal-13/leet-code/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/kunaaal-13/leet-code/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -549,6 +553,7 @@ my dsa solutions
 | [0543-diameter-of-binary-tree](https://github.com/kunaaal-13/leet-code/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kunaaal-13/leet-code/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/kunaaal-13/leet-code/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## DP on Trees
 |  |
 | ------- |
@@ -566,6 +571,7 @@ my dsa solutions
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kunaaal-13/leet-code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kunaaal-13/leet-code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/kunaaal-13/leet-code/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Lifting
 |  |
 | ------- |
