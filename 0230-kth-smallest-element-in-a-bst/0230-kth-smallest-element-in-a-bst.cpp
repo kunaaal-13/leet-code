@@ -16,7 +16,6 @@ public:
         if(root==NULL) return;
         helper(root->left);
         ans.push_back(root->val);
-        std::cout<<root->val;
         helper(root->right);
     }
     int kthSmallest(TreeNode* root, int k) {
