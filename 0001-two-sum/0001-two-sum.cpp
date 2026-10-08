@@ -7,12 +7,14 @@ public:
         for(int i=0;i<nums.size();i++){
             need=target-nums[i];
             if(sum.count(need)){
-                ans.push_back(i);
                 ans.push_back(sum[need]);
+                ans.push_back(i);
                 return {i,sum[need]};
             }
             sum[nums[i]]=i;
         }
+        // hello this is a comment
+        
         return ans;
     }
 };
