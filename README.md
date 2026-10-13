@@ -59,6 +59,7 @@ my dsa solutions
 | [0704-binary-search](https://github.com/kunaaal-13/leet-code/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/kunaaal-13/leet-code/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kunaaal-13/leet-code/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/kunaaal-13/leet-code/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/kunaaal-13/leet-code/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/kunaaal-13/leet-code/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/kunaaal-13/leet-code/tree/master/0912-sort-an-array) |
@@ -225,6 +226,7 @@ my dsa solutions
 | [0367-valid-perfect-square](https://github.com/kunaaal-13/leet-code/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/kunaaal-13/leet-code/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/kunaaal-13/leet-code/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/kunaaal-13/leet-code/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kunaaal-13/leet-code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1952-three-divisors](https://github.com/kunaaal-13/leet-code/tree/master/1952-three-divisors) |
 | [2965-find-missing-and-repeated-values](https://github.com/kunaaal-13/leet-code/tree/master/2965-find-missing-and-repeated-values) |
@@ -273,6 +275,7 @@ my dsa solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunaaal-13/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/kunaaal-13/leet-code/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/kunaaal-13/leet-code/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/kunaaal-13/leet-code/tree/master/0877-stone-game) |
 ## Quicksort
 |  |
 | ------- |
@@ -584,4 +587,16 @@ my dsa solutions
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kunaaal-13/leet-code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kunaaal-13/leet-code/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kunaaal-13/leet-code/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kunaaal-13/leet-code/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
