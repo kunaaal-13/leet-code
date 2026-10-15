@@ -127,6 +127,7 @@ my dsa solutions
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kunaaal-13/leet-code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/kunaaal-13/leet-code/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/kunaaal-13/leet-code/tree/master/3174-clear-digits) |
+| [3894-traffic-signal-color](https://github.com/kunaaal-13/leet-code/tree/master/3894-traffic-signal-color) |
 ## Sliding Window
 |  |
 | ------- |
@@ -231,6 +232,7 @@ my dsa solutions
 | [1952-three-divisors](https://github.com/kunaaal-13/leet-code/tree/master/1952-three-divisors) |
 | [2965-find-missing-and-repeated-values](https://github.com/kunaaal-13/leet-code/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/kunaaal-13/leet-code/tree/master/3099-harshad-number) |
+| [3894-traffic-signal-color](https://github.com/kunaaal-13/leet-code/tree/master/3894-traffic-signal-color) |
 | [3959-check-good-integer](https://github.com/kunaaal-13/leet-code/tree/master/3959-check-good-integer) |
 ## Matrix
 |  |
@@ -333,6 +335,7 @@ my dsa solutions
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kunaaal-13/leet-code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/kunaaal-13/leet-code/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3174-clear-digits](https://github.com/kunaaal-13/leet-code/tree/master/3174-clear-digits) |
+| [3894-traffic-signal-color](https://github.com/kunaaal-13/leet-code/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/kunaaal-13/leet-code/tree/master/3925-concatenate-array-with-reverse) |
 | [3959-check-good-integer](https://github.com/kunaaal-13/leet-code/tree/master/3959-check-good-integer) |
 ## Binary Indexed Tree
