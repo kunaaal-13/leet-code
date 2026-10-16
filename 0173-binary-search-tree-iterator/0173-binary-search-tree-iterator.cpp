@@ -26,12 +26,9 @@ public:
     
     int next() {
         TreeNode* ans=s.top();
-        int a=ans->val;
         s.pop();
-        if(ans->right){
-            store(ans->right);
-        }
-        return a;
+        store(ans->right);
+        return ans->val;
     }
     
     bool hasNext() {
