@@ -368,6 +368,7 @@ my dsa solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kunaaal-13/leet-code/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/kunaaal-13/leet-code/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/kunaaal-13/leet-code/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/kunaaal-13/leet-code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kunaaal-13/leet-code/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/kunaaal-13/leet-code/tree/master/0234-palindrome-linked-list) |
@@ -499,6 +500,7 @@ my dsa solutions
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/kunaaal-13/leet-code/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/kunaaal-13/leet-code/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/kunaaal-13/leet-code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kunaaal-13/leet-code/tree/master/0232-implement-queue-using-stacks) |
 ## Range Minimum/Maximum Query
@@ -543,6 +545,7 @@ my dsa solutions
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kunaaal-13/leet-code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kunaaal-13/leet-code/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kunaaal-13/leet-code/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0173-binary-search-tree-iterator](https://github.com/kunaaal-13/leet-code/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kunaaal-13/leet-code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kunaaal-13/leet-code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/kunaaal-13/leet-code/tree/master/0257-binary-tree-paths) |
@@ -560,6 +563,7 @@ my dsa solutions
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kunaaal-13/leet-code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kunaaal-13/leet-code/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kunaaal-13/leet-code/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0173-binary-search-tree-iterator](https://github.com/kunaaal-13/leet-code/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kunaaal-13/leet-code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kunaaal-13/leet-code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/kunaaal-13/leet-code/tree/master/0257-binary-tree-paths) |
@@ -583,6 +587,7 @@ my dsa solutions
 | [0098-validate-binary-search-tree](https://github.com/kunaaal-13/leet-code/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/kunaaal-13/leet-code/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kunaaal-13/leet-code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/kunaaal-13/leet-code/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kunaaal-13/leet-code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kunaaal-13/leet-code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/kunaaal-13/leet-code/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -607,4 +612,8 @@ my dsa solutions
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/kunaaal-13/leet-code/tree/master/0877-stone-game) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/kunaaal-13/leet-code/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
