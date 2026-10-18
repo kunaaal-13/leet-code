@@ -229,6 +229,7 @@ my dsa solutions
 | [0342-power-of-four](https://github.com/kunaaal-13/leet-code/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/kunaaal-13/leet-code/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/kunaaal-13/leet-code/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/kunaaal-13/leet-code/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/kunaaal-13/leet-code/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/kunaaal-13/leet-code/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kunaaal-13/leet-code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
