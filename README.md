@@ -279,6 +279,7 @@ my dsa solutions
 | [0118-pascals-triangle](https://github.com/kunaaal-13/leet-code/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kunaaal-13/leet-code/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunaaal-13/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/kunaaal-13/leet-code/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/kunaaal-13/leet-code/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/kunaaal-13/leet-code/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/kunaaal-13/leet-code/tree/master/0877-stone-game) |
@@ -301,6 +302,7 @@ my dsa solutions
 | [0231-power-of-two](https://github.com/kunaaal-13/leet-code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kunaaal-13/leet-code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kunaaal-13/leet-code/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/kunaaal-13/leet-code/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/kunaaal-13/leet-code/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/kunaaal-13/leet-code/tree/master/0645-set-mismatch) |
 ## Counting
