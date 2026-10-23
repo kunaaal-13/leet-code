@@ -230,6 +230,7 @@ my dsa solutions
 | [0070-climbing-stairs](https://github.com/kunaaal-13/leet-code/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/kunaaal-13/leet-code/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/kunaaal-13/leet-code/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/kunaaal-13/leet-code/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/kunaaal-13/leet-code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kunaaal-13/leet-code/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/kunaaal-13/leet-code/tree/master/0326-power-of-three) |
