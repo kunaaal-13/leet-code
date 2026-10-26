@@ -480,6 +480,7 @@ my dsa solutions
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kunaaal-13/leet-code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/kunaaal-13/leet-code/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kunaaal-13/leet-code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kunaaal-13/leet-code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/kunaaal-13/leet-code/tree/master/0257-binary-tree-paths) |
@@ -574,6 +575,7 @@ my dsa solutions
 | [0144-binary-tree-preorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/kunaaal-13/leet-code/tree/master/0173-binary-search-tree-iterator) |
+| [0226-invert-binary-tree](https://github.com/kunaaal-13/leet-code/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kunaaal-13/leet-code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kunaaal-13/leet-code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/kunaaal-13/leet-code/tree/master/0257-binary-tree-paths) |
@@ -596,6 +598,7 @@ my dsa solutions
 | [0144-binary-tree-preorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/kunaaal-13/leet-code/tree/master/0173-binary-search-tree-iterator) |
+| [0226-invert-binary-tree](https://github.com/kunaaal-13/leet-code/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kunaaal-13/leet-code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kunaaal-13/leet-code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/kunaaal-13/leet-code/tree/master/0257-binary-tree-paths) |
@@ -613,6 +616,7 @@ my dsa solutions
 | [0101-symmetric-tree](https://github.com/kunaaal-13/leet-code/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/kunaaal-13/leet-code/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kunaaal-13/leet-code/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0226-invert-binary-tree](https://github.com/kunaaal-13/leet-code/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kunaaal-13/leet-code/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/kunaaal-13/leet-code/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
