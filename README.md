@@ -233,6 +233,7 @@ my dsa solutions
 | [0172-factorial-trailing-zeroes](https://github.com/kunaaal-13/leet-code/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/kunaaal-13/leet-code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kunaaal-13/leet-code/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/kunaaal-13/leet-code/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/kunaaal-13/leet-code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kunaaal-13/leet-code/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/kunaaal-13/leet-code/tree/master/0367-valid-perfect-square) |
@@ -641,10 +642,12 @@ my dsa solutions
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/kunaaal-13/leet-code/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/kunaaal-13/leet-code/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/kunaaal-13/leet-code/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/kunaaal-13/leet-code/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
@@ -654,4 +657,16 @@ my dsa solutions
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/kunaaal-13/leet-code/tree/master/0173-binary-search-tree-iterator) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kunaaal-13/leet-code/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kunaaal-13/leet-code/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kunaaal-13/leet-code/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
