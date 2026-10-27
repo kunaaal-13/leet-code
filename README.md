@@ -47,6 +47,7 @@ my dsa solutions
 | [0239-sliding-window-maximum](https://github.com/kunaaal-13/leet-code/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/kunaaal-13/leet-code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kunaaal-13/leet-code/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/kunaaal-13/leet-code/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/kunaaal-13/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/kunaaal-13/leet-code/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/kunaaal-13/leet-code/tree/master/0414-third-maximum-number) |
@@ -331,6 +332,7 @@ my dsa solutions
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kunaaal-13/leet-code/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/kunaaal-13/leet-code/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/kunaaal-13/leet-code/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kunaaal-13/leet-code/tree/master/0560-subarray-sum-equals-k) |
 ## Pigeonhole Principle
@@ -529,6 +531,7 @@ my dsa solutions
 | [0173-binary-search-tree-iterator](https://github.com/kunaaal-13/leet-code/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/kunaaal-13/leet-code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kunaaal-13/leet-code/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/kunaaal-13/leet-code/tree/master/0303-range-sum-query-immutable) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
