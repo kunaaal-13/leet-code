@@ -251,6 +251,7 @@ my dsa solutions
 | [1952-three-divisors](https://github.com/kunaaal-13/leet-code/tree/master/1952-three-divisors) |
 | [2965-find-missing-and-repeated-values](https://github.com/kunaaal-13/leet-code/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/kunaaal-13/leet-code/tree/master/3099-harshad-number) |
+| [3516-find-closest-person](https://github.com/kunaaal-13/leet-code/tree/master/3516-find-closest-person) |
 | [3894-traffic-signal-color](https://github.com/kunaaal-13/leet-code/tree/master/3894-traffic-signal-color) |
 | [3959-check-good-integer](https://github.com/kunaaal-13/leet-code/tree/master/3959-check-good-integer) |
 ## Matrix
