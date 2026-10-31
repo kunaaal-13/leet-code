@@ -233,6 +233,7 @@ my dsa solutions
 | [0067-add-binary](https://github.com/kunaaal-13/leet-code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kunaaal-13/leet-code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kunaaal-13/leet-code/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/kunaaal-13/leet-code/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/kunaaal-13/leet-code/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/kunaaal-13/leet-code/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/kunaaal-13/leet-code/tree/master/0172-factorial-trailing-zeroes) |
@@ -292,6 +293,7 @@ my dsa solutions
 | [0042-trapping-rain-water](https://github.com/kunaaal-13/leet-code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kunaaal-13/leet-code/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/kunaaal-13/leet-code/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/kunaaal-13/leet-code/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/kunaaal-13/leet-code/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kunaaal-13/leet-code/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunaaal-13/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -574,6 +576,7 @@ my dsa solutions
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/kunaaal-13/leet-code/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/kunaaal-13/leet-code/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/kunaaal-13/leet-code/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/kunaaal-13/leet-code/tree/master/0101-symmetric-tree) |
@@ -597,6 +600,7 @@ my dsa solutions
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/kunaaal-13/leet-code/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/kunaaal-13/leet-code/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/kunaaal-13/leet-code/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/kunaaal-13/leet-code/tree/master/0101-symmetric-tree) |
@@ -632,6 +636,7 @@ my dsa solutions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/kunaaal-13/leet-code/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/kunaaal-13/leet-code/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/kunaaal-13/leet-code/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kunaaal-13/leet-code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
