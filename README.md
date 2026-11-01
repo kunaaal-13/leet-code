@@ -43,6 +43,7 @@ my dsa solutions
 | [0136-single-number](https://github.com/kunaaal-13/leet-code/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunaaal-13/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kunaaal-13/leet-code/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/kunaaal-13/leet-code/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/kunaaal-13/leet-code/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kunaaal-13/leet-code/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/kunaaal-13/leet-code/tree/master/0239-sliding-window-maximum) |
@@ -160,6 +161,7 @@ my dsa solutions
 | [0151-reverse-words-in-a-string](https://github.com/kunaaal-13/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kunaaal-13/leet-code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunaaal-13/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/kunaaal-13/leet-code/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/kunaaal-13/leet-code/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/kunaaal-13/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/kunaaal-13/leet-code/tree/master/0344-reverse-string) |
@@ -237,6 +239,7 @@ my dsa solutions
 | [0168-excel-sheet-column-title](https://github.com/kunaaal-13/leet-code/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/kunaaal-13/leet-code/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/kunaaal-13/leet-code/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/kunaaal-13/leet-code/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kunaaal-13/leet-code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kunaaal-13/leet-code/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/kunaaal-13/leet-code/tree/master/0292-nim-game) |
