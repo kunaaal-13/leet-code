@@ -41,6 +41,7 @@ my dsa solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunaaal-13/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/kunaaal-13/leet-code/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/kunaaal-13/leet-code/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/kunaaal-13/leet-code/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunaaal-13/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kunaaal-13/leet-code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kunaaal-13/leet-code/tree/master/0189-rotate-array) |
@@ -321,6 +322,7 @@ my dsa solutions
 | [0078-subsets](https://github.com/kunaaal-13/leet-code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kunaaal-13/leet-code/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/kunaaal-13/leet-code/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/kunaaal-13/leet-code/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/kunaaal-13/leet-code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kunaaal-13/leet-code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kunaaal-13/leet-code/tree/master/0287-find-the-duplicate-number) |
