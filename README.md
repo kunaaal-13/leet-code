@@ -70,6 +70,7 @@ my dsa solutions
 | [0896-monotonic-array](https://github.com/kunaaal-13/leet-code/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/kunaaal-13/leet-code/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/kunaaal-13/leet-code/tree/master/0912-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/kunaaal-13/leet-code/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kunaaal-13/leet-code/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1331-rank-transform-of-an-array](https://github.com/kunaaal-13/leet-code/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kunaaal-13/leet-code/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -269,6 +270,7 @@ my dsa solutions
 | [0073-set-matrix-zeroes](https://github.com/kunaaal-13/leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kunaaal-13/leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/kunaaal-13/leet-code/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/kunaaal-13/leet-code/tree/master/0994-rotting-oranges) |
 | [1672-richest-customer-wealth](https://github.com/kunaaal-13/leet-code/tree/master/1672-richest-customer-wealth) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/kunaaal-13/leet-code/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/kunaaal-13/leet-code/tree/master/2965-find-missing-and-repeated-values) |
@@ -645,6 +647,7 @@ my dsa solutions
 | [0226-invert-binary-tree](https://github.com/kunaaal-13/leet-code/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kunaaal-13/leet-code/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/kunaaal-13/leet-code/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0994-rotting-oranges](https://github.com/kunaaal-13/leet-code/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
